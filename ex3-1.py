@@ -7,4 +7,4 @@ phone = 113
 
 bills = car + insurance + phone
 
-print "You bills cost $", bills
+print "You bills cost $",bills
